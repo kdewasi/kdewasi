@@ -26,4 +26,4 @@ web applications with modern JavaScript stacks and AI integrations.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/your-handle) · [Email](mailto:your@email.com)
+[LinkedIn](https://www.linkedin.com/in/kishan-dewasi/) · [Email](mailto:kishandewasi606@email.com)
