@@ -2,7 +2,7 @@
 
 # Hi, I'm Kishan Dewasi
 
-**Co-founder & Frontend Engineer · Building AI-powered developer tooling**
+**Co-founder & Full-Stack Developer · Building AI-powered developer tooling**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_SLUG)
 [![Email](https://img.shields.io/badge/Email-kishan%40hierarc.ai-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kishan@hierarc.ai)
