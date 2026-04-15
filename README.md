@@ -4,7 +4,7 @@
 
 **Co-founder & Full-Stack Developer · Building AI-powered developer tooling**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_SLUG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-dewasi/)
 [![Email](https://img.shields.io/badge/Email-kishan%40hierarc.ai-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kishan@hierarc.ai)
 [![Portfolio](https://img.shields.io/badge/hierarc.ai-Visit-%23000000?style=flat&logo=vercel&logoColor=white)](https://hierarc.ai)
 [![Location](https://img.shields.io/badge/Toronto%2C%20Canada-lightgrey?style=flat&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/toronto)
